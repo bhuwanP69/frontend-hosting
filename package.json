@@ -1,5 +1,4 @@
 {
-  "proxy": "https://backend2-jig1.onrender.com/api/workouts",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
